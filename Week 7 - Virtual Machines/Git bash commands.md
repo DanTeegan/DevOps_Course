@@ -1,0 +1,21 @@
+### Git bash commands
+- Where I am pwd
+- Who I am who
+- Who is using the machine id
+- Current directory ls
+- Current directory + hidden files ls -a
+- Name of system using uname
+- Clear screen clear
+- Create a file touch filename
+- Create a directory mkrdir filename
+- Going inside a directory cd directoryname
+- Back to home location cd
+- Going back cd ..
+- Going inside a folder cd foldername
+- Root/Admin mode sudo su
+- Getting out of root/admin user exit
+- Deleting a file rm -r nameoffile
+- Deleting a file sudo rm nameoffile
+- Printing on command line echo
+- How we can check the status of programms Systemctl status File
+- Installing packages sudo apt-get install nginx
